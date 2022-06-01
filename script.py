@@ -32,3 +32,5 @@ insert('Radhe Shyam', 'Prabhas', 'Pooja Hegde', 2022, 'Radha Krishna Kumar')
 insert('Bahubali', 'Prabhas', 'Anushka Shetty', 2015, 'Rajmouli')
 insert('Love Mocktail', 'Darling Krishna', 'Milana Nagraj', 2020, 'Darling Krishna')
 
+print()
+print("Items inserted successfully\n")
